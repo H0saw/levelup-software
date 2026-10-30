@@ -11,6 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="footer.css">
 
     <title>LevelUp Hardware</title>
 </head>
